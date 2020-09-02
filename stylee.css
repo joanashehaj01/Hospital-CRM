@@ -1,0 +1,24 @@
+body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
+.w3-bar-block .w3-bar-item {padding:20px}
+.auto-style1 {
+font-size: large;
+}
+.auto-style2 {
+color: #000;
+font-size: large;
+}
+.auto-style3 {
+color: #000000;
+background-color: #FFFFFF;
+}
+i {
+  border: solid black;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
+}
+
+.arrow right{
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+}

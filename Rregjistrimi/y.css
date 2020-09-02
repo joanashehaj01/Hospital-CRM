@@ -1,0 +1,33 @@
+body{
+	background-image: url('https://image.freepik.com/free-photo/no-translate-detected_31965-517.jpg');
+	background-size: cover;
+}
+/* Full-width input fields */
+input[type=text], input[type=number], input[type=email], input[type=password] {
+  width: 250px;
+	height: 30px;
+	background: white;
+	border: 1px solid rgba(255,255,255,0.6);
+	border-radius: 2px;
+	color: black;
+	font-family: 'Exo', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	padding: 4px;
+	margin-top: 10px;
+}
+
+
+.btn{
+   
+  background-color: gray;
+  color: white;
+  padding: 10px 14px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+.btn:hover {
+  opacity: 1;
+}
